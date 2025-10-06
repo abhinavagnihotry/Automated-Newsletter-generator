@@ -23,7 +23,7 @@ Build an **end-to-end pipeline** that:
    - Use the Hugging Face dataset.  
    - Each record contains metadata such as `created_at`, `title`, `industry`, `source_url`, `company`, etc. See the dataset page on Hugging Face for full details.
 
-2. **Processes & Analyzes**  
+2. **Categorize**  
    - Identify the most relevant or trending items for the current week.  
    - Categorize items into meaningful sections (e.g., *Research Highlights*, *Industry News*, *Cool Use Cases*).  
    - Summarize use cases into clear, concise, newsletter-friendly text.  
@@ -43,4 +43,5 @@ Build an **end-to-end pipeline** that:
 
 ## Output
 Final output newsletter: *newsletter.md*
+
 
