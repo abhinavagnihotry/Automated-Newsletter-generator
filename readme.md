@@ -39,3 +39,8 @@ Build an **end-to-end pipeline** that:
    - Ensure the pipeline can be run on a weekly schedule.  
    - Handle updates gracefully (avoid duplicates; include only fresh items).  
 
+---
+
+## Output
+Final output newsletter: *newsletter.md*
+
